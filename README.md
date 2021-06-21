@@ -1,4 +1,4 @@
-# Fire-Community-Generator
+# Fire-C-Generator
 Generate Gift Codes For Roblox, Fortnite, Minecraft, ETC
 
 1.) Download Repo 
